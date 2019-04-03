@@ -1,0 +1,48 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.employer -%}
+              {{ site.employer | escape }}
+            {%- endif -%}<br>
+            {%- if site.street -%}
+              {{ site.street | escape }}
+            {%- endif -%}<br>
+            {%- if site.city -%}
+              {{ site.city | escape }}
+            {%- endif -%}<br>
+            {%- if site.country -%}
+              {{ site.country | escape }}
+            {%- endif -%}<br>
+            {%- if site.employerweb -%}
+              {{ site.employerweb | escape }}
+            {%- endif -%}
+            </li>
+        </ul>
+      </div>
+      
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+      
+      <div class="footer-col footer-col-3">
+        <p>{{- site.shortabout | escape -}}</p>
+      </div>
+      
+      <div>
+      <p><small> <center> &copy; {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved.</p>
+      </div>
+      
+    </div>
+
+  </div>
+
+</footer>
