@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Books
 
-[2015. *Große Hoffnungen und brüchige Koalitionen. Politik, Industrie und die schwierige Durchsetzung der Photovoltaik.* Frankfurt am Main/New York, Campus.](https://www.campus.de/buecher-campus-verlag/wissenschaft/politikwissenschaft/grosse_hoffnungen_und_bruechige_koalitionen-10021.html)
+[2015. *Große Hoffnungen und brüchige Koalitionen. Politik, Industrie und die schwierige Durchsetzung der Photovoltaik.* Frankfurt am Main/New York, Campus.](https://pure.mpg.de/rest/items/item_2224416_9/component/file_2621995/content)
 
 Dissertation awarded with the *Theodor-Wessels-Preis*. EWI Cologne.
 
@@ -13,7 +13,7 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and [*Gesellschaft für Energiewissensc
 
 ## Articles
 
-[2019. Varieties of Economization in Competition Policy: Institutional Change in German and American Antitrust, 1960–2000. *Review of International Political Economy* (with S. Kohl).](publication_files/ripe_varieties.pdf)
+[2019. Varieties of Economization in Competition Policy: Institutional Change in German and American Antitrust, 1960–2000. *Review of International Political Economy* 26, 2, pp. 256–286 (with S. Kohl).](publication_files/ripe_varieties.pdf)
 
 ## Book chapters
 
