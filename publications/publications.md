@@ -13,6 +13,8 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and [*Gesellschaft für Energiewissensc
 
 ## Articles
 
+[2019. Wirtschaftliche Untergangsszenarien und neoliberale Reformen. *Leviathan* 47, 2, pp. 144–168.](https://www.nomos-elibrary.de/10.5771/0340-0425-2019-2-144/wirtschaftliche-untergangsszenarien-und-neoliberale-reformen-jahrgang-47-2019-heft-2?page=1)
+
 [2019. Varieties of Economization in Competition Policy: Institutional Change in German and American Antitrust, 1960–2000. *Review of International Political Economy* 26, 2, pp. 256–286 (with S. Kohl).](publication_files/ripe_varieties.pdf)
 
 ## Book chapters
@@ -20,6 +22,8 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and [*Gesellschaft für Energiewissensc
 [2018. The Dilemma between Aligned Expectations and Diversity in Innovation: Evidence from Early Energy Technology Policies. In: Jens Beckert and Richard Bronk (eds.), Uncertain Futures: Imaginaries, Narratives, and Calculation in the Economy. Oxford, Oxford University Press, pp. 298–318.](https://global.oup.com/academic/product/uncertain-futures-9780198820802)
 
 ## Working papers and shorter pieces
+
+[2019. Crisis? What Crisis? Rezension zu "Democracy and Prosperity" von Torben Iversen and David Soskice. *Soziopolis*, 11 June 2019.](https://soziopolis.de/lesen/buecher/artikel/crisis-what-crisis/)
 
 [2019. The Symmetric Fallacy: The Dangers of Symmetric Reasoning in the Social Sciences. *CES Open Forum Series*, no. 32. Center for European Studies, Harvard University, Cambridge, MA (with L. Haffert).](https://ces.fas.harvard.edu/uploads/art/Working-Paper-PDF-THE-SYMMETRIC-FALLACY-THE-DANGERS-OF-SYMMETRIC-REASON-ING-IN-THE-SOCIAL-SCIENCES.pdf)
 
