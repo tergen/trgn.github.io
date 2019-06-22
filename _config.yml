@@ -25,7 +25,7 @@ shortabout: >-
     economy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tergen.org" 
-twitter_username:
+twitter_username: @tmrergen
 github_username:  tergen
 employer: MPI for the Study of Societies
 street: Paulstraße 3
