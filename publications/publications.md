@@ -15,13 +15,19 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and [*Gesellschaft für Energiewissensc
 
 [2019. Wirtschaftliche Untergangsszenarien und neoliberale Reformen. *Leviathan* 47, 2, pp. 144–168.](https://www.nomos-elibrary.de/10.5771/0340-0425-2019-2-144/wirtschaftliche-untergangsszenarien-und-neoliberale-reformen-jahrgang-47-2019-heft-2?page=1)
 
-[2019. Varieties of Economization in Competition Policy: Institutional Change in German and American Antitrust, 1960–2000. *Review of International Political Economy* 26, 2, pp. 256–286 (with S. Kohl).](publication_files/ripe_varieties.pdf)
+[2019. Varieties of Economization in Competition Policy: Institutional Change in German and American Antitrust, 1960–2000. *Review of International Political Economy* 26, 2, pp. 256–286 (with S. Kohl).](publication_files/2019_ripe_varieties.pdf)
 
 ## Book chapters
 
-[2018. The Dilemma between Aligned Expectations and Diversity in Innovation: Evidence from Early Energy Technology Policies. In: Jens Beckert and Richard Bronk (eds.), Uncertain Futures: Imaginaries, Narratives, and Calculation in the Economy. Oxford, Oxford University Press, pp. 298–318.](https://global.oup.com/academic/product/uncertain-futures-9780198820802)
+[2018. The Dilemma between Aligned Expectations and Diversity in Innovation: Evidence from Early Energy Technology Policies. In: Jens Beckert and Richard Bronk (eds.), Uncertain Futures: Imaginaries, Narratives, and Calculation in the Economy. Oxford, Oxford University Press, pp. 298–318.](publication_files/2018_uncertain.pdf)
 
 ## Working papers and shorter pieces
+
+[2020. Von Manchester über Detroit ins Silicon Valley. Rezension zu "Democratic Capitalism at the Crossroads" von Carles Boix. *Soziopolis*, 29 January 2020.](https://www.soziopolis.de/lesen/buecher/artikel/rezension-ergen/)
+
+[2019. Review of "Democracy and Prosperity" by Torben Iversen and David Soskice. *Economic Sociology: The European Electronic Newsletter* 21.1, November 2019, 56–59.](publication_files/2019_es_rev.pdf)
+
+[2019. Mit Kreuztabellen gegen Rechts. Jenaer Splitter IV. *Soziopolis*, 26 September 2019.](https://www.soziopolis.de/vernetzen/veranstaltungsberichte/artikel/jenaer-splitter-iv-donnerstag/)
 
 [2019. Crisis? What Crisis? Rezension zu "Democracy and Prosperity" von Torben Iversen and David Soskice. *Soziopolis*, 11 June 2019.](https://soziopolis.de/lesen/buecher/artikel/crisis-what-crisis/)
 
@@ -31,7 +37,7 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and [*Gesellschaft für Energiewissensc
 
 [2018. Zwischen Offenheit und Festlegung. Ein Dilemma in der Förderung von Innovationen. *Gesellschaftsforschung* 1.18, pp. 14–15.](http://www.mpifg.de/aktuelles/newsletter/MPIfG_forschungsmag_1-18.pdf)
 
-[2018. Brexit, Nationalismus, Abstiegsängste: Soziologen untersuchen Zukunftserwartungen. Radiointerview. Deutschlandfunk, *Aus Kultur- und Sozialwissenschaften*, 15. November 2018 (with L. Suckert).](https://ondemand-mp3.dradio.de/file/dradio/2018/11/15/brexit_nationalismus_abstiegsaengste_soziologen_dlf_20181115_2010_0a1933c4.mp3)
+[2018. Brexit, Nationalismus, Abstiegsängste: Soziologen untersuchen Zukunftserwartungen. Radiointerview. Deutschlandfunk, *Aus Kultur- und Sozialwissenschaften*, 15. November 2018 (with L. Suckert).](publication_files/2018_dlf_zukunft.mp3)
 
 [2017. Die Zukunft im Forschungsprogramm des Max-Planck-Instituts für Gesellschaftsforschung. *Gesellschaftsforschung* 2.17, pp. 12–15 (with J. Beckert).](http://www.mpifg.de/aktuelles/newsletter/MPIfG_Newsl_2-17.pdf)
 
