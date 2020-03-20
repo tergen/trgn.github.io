@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "New Publication in the MPIfG Discussion Paper Series"
-date:   2019-04-01 21:20:51 -0400
+title:  "New Publication on expectations in the MPIfG Discussion Paper Series"
+date:   2020-03-20 8:00:00 -0400
 tags: [action theory, ideas, expectations, social theory]
 ---
 
