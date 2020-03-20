@@ -23,6 +23,8 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and [*Gesellschaft für Energiewissensc
 
 ## Working papers and shorter pieces
 
+[2020. Transcending History’s Heavy Hand. The Future in Economic Action. *MPIfG Discussion Paper* 20/3. Cologne: MPIfG (with J. Beckert)](http://www.mpifg.de/pu/mpifg_dp/2020/dp20-3.pdf).
+
 [2020. Von Manchester über Detroit ins Silicon Valley. Rezension zu "Democratic Capitalism at the Crossroads" von Carles Boix. *Soziopolis*, 29 January 2020.](https://www.soziopolis.de/lesen/buecher/artikel/rezension-ergen/)
 
 [2019. Review of "Democracy and Prosperity" by Torben Iversen and David Soskice. *Economic Sociology: The European Electronic Newsletter* 21.1, November 2019, 56–59.](publication_files/2019_es_rev.pdf)

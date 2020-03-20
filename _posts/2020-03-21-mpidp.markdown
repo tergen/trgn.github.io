@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "New Publication in the MPIfG Discussion Paper Series"
+date:   2019-04-01 21:20:51 -0400
+tags: [action theory, ideas, expectations, social theory]
+---
+
+[A new discussion paper](https://www.mpifg.de/pu/mpifg_dp/2020/dp20-3.pdf) in the [MPIfG's](https://www.mpifg.de) series on the role of the future in economic action with J. Beckert. A revised version will be published in the *Handbook of Economic Sociology for the 21st Century* (Springer Nature, 2020, edited by Andrea Maurer).
+
+<!--more-->
+
+## Abstract
+
+This paper discusses sociological analyses of the formation and role of expectations in the economy. Recognition of the social constitution of expectations advances the understanding of economic action under conditions of uncertainty and helps to explain core features of modern capitalist societies. The range of applications of the analytical perspective is illustrated by closer examination of three core spheres of capitalist societies: consumption, investment, and innovation. To provide an idea of core challenges of the approach, three major research questions for the sociological analysis of expectations are presented.
+
