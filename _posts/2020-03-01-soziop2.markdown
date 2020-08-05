@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review of Democracy and Prosperity on Soziopolis"
+title:  "Review of Democratic Capitalism at the Crossroads on Soziopolis"
 date:   2020-03-01 09:00:00 -0400
 tags: [democracy, neoliberalism, industrial policy, VoC]
 ---
