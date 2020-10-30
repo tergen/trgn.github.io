@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "New Publication in Socio-economic Review"
+date:   2020-10-29 21:20:51 -0400
+tags: [competition, moral economy, history of ideas, content analysis]
+---
+
+[New article](/publications/publication_files/2020_ser.pdf) in [*Socio-economic Review*](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwaa041/5942748) on the moral economy of economic competition with S. Kohl.
+
+<!--more-->
+
+## Abstract
+
+Competition is a constitutive feature of capitalist societies. Social conflicts over the introduction, abolition and regulation of market organization are saturated with implicit moral arguments concerning the desirability of competition. Yet, unlike private property, exchange relations and social inequalities, economic competition has rarely been the explicit core of moral debates over capitalism. Drawing on a broad variety of social science literature, this article reconstructs, maps and systematizes ethical arguments about economic competition in capitalist societies. We discuss six contradictory rival views of economic competition and illustrate their influence by providing historical examples of the respective views in action in political-economic debates. This article serves as a mapping groundwork for reviving the systematic ethical debate on economic competition. In addition, our map of rival views lends itself to use as a structuring tool in empirical research on the moral economy and ideational embeddedness of capitalist societies, markets and firms.
