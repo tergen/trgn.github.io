@@ -13,6 +13,8 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and [*Gesellschaft für Energiewissensc
 
 ## Articles
 
+[2020. Rival Views of Economic Competition. *Socio-economic Review* Advance access (with S. Kohl).](publication_files/2020_ser.pdf)
+
 [2019. Wirtschaftliche Untergangsszenarien und neoliberale Reformen. *Leviathan* 47, 2, pp. 144–168.](https://www.nomos-elibrary.de/10.5771/0340-0425-2019-2-144/wirtschaftliche-untergangsszenarien-und-neoliberale-reformen-jahrgang-47-2019-heft-2?page=1)
 
 [2019. Varieties of Economization in Competition Policy: Institutional Change in German and American Antitrust, 1960–2000. *Review of International Political Economy* 26, 2, pp. 256–286 (with S. Kohl).](publication_files/2019_ripe_varieties.pdf)
