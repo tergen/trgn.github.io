@@ -1,6 +1,7 @@
 ---
-layout: publications
+layout: page
 title: "Publications"
+nav_order: 2
 ---
 
 ## Books
@@ -21,9 +22,19 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and [*Gesellschaft für Energiewissensc
 
 ## Book chapters
 
+[2021. Transcending History’s Heavy Hand: The Future in Economic Action. In: Andrea Maurer (ed.), Handbook of Economic Sociology for the 21st Century.  London, Springer Nature. (forthcoming) (with J. Beckert).](http://www.mpifg.de/pu/mpifg_dp/2020/dp20-3.pdf)
+
+[2021. Eine pragmatistische Theorie technologischer Innovation. In:  Felix Petersen, Martin Seeliger and Hauke Brunkhorst (eds.), Pragmatistische Sozialforschung: Für eine praktische Wissenschaft gesellschaftlichen Fortschritts. Stuttgart, JB. Metzler. (forthcoming.)](https://www.springer.com/de/book/9783662621714)
+
+[2021. Unsichere Zukünfte und die Entstehung von Kooperation. In: Felix Petersen, Martin Seeliger and Hauke Brunkhorst (eds.), Pragmatistische Sozialforschung: Für eine praktische Wissenschaft gesellschaftlichen Fortschritts. Stuttgart, JB. Metzler. (forthcoming) (with M. Seeliger.)](https://www.springer.com/de/book/9783662621714)
+
+[2021. Die moralische Ökonomie des Schutzzolls: Der Fall der Solarindustrie. In: Klaus Kraemer and Sascha Münnich (eds.), Ökonomischer Nationalismus: Soziologische Analysen wirtschaftlicher Ordnungen. Frankfurt/Main: Campus. (forthcoming.)](https://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/oekonomischer_nationalismus-15602.html)
+
 [2018. The Dilemma between Aligned Expectations and Diversity in Innovation: Evidence from Early Energy Technology Policies. In: Jens Beckert and Richard Bronk (eds.), Uncertain Futures: Imaginaries, Narratives, and Calculation in the Economy. Oxford, Oxford University Press, pp. 298–318.](publication_files/2018_uncertain.pdf)
 
 ## Working papers and shorter pieces
+
+[“Crises” as catalysts for more sustainable futures? The case of the First Oil Crisis and the role of multilayered interpretative struggles. Economic Sociology: The European Electronic Newsletter (forthcoming) (with L. Suckert.)](https://econsoc.mpifg.de)
 
 [2020. Transcending History’s Heavy Hand. The Future in Economic Action. *MPIfG Discussion Paper* 20/3. Cologne: MPIfG (with J. Beckert)](http://www.mpifg.de/pu/mpifg_dp/2020/dp20-3.pdf).
 

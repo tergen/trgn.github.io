@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: "About"
+nav_order: 1
 ---
 
 <img src="/about/about_files/tergen.jpg" alt="drawing" width="200" ALIGN="right" style="padding-left: 15px"/>

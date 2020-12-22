@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Teaching
+title: "Teaching"
+nav_order: 3
 ---
 
 I'm teaching courses on economic sociology, globalization, innovation, research ethics, and sociological theory.
 
-<br/><br/>
+<br/>
 
+Fall 2020. Good academic practice and its problems. Seminar for early-career researchers. MPIfG Cologne.
 
 [Fall 2019. Foundations of institutional theory. Seminar for master and doctoral students. University of Cologne.](teaching_files/syl_found_2019.pdf)
 

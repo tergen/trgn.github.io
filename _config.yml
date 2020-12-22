@@ -34,7 +34,7 @@ country: Germany
 employerweb: www.mpifg.de
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
