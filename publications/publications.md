@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: publications
 title: "Publications"
 nav_order: 2
 ---
