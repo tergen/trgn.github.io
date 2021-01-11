@@ -10,4 +10,4 @@ Together with [Andrea M. Herrmann](http://www.andrea-herrmann.eu) and [Philipp S
 
 To explore the field, we invite paper abstracts on the role of the state in the digital economy from which we will assemble thematic panels during the [2021 SASE Annual Meeting](https://sase.org/event/2021-sase-conference/). We are currently in the early planning stages for a first follow-up workshop at the MPIfG Cologne and a Special Issue on the topic.
 
-If you are interested in participating, please [submit](https://sase.org/events/conference-submission-and-award-guidelines/) an abstract to SASE's Network J "Digital Economy" by January 30 (SASE's January 16 deadline plus a planned 14-day extension) and send a brief email to [Timur Ergen](mailto:te@mpifg.de).
+If you are interested in participating, please [submit](https://sase.org/events/conference-submission-and-award-guidelines/) an abstract to SASE's Network J "Digital Economy" by February 10 (SASE's January 16 deadline plus an extension) and send a brief email to [Timur Ergen](mailto:te@mpifg.de).
