@@ -34,7 +34,7 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and [*Gesellschaft für Energiewissensc
 
 ## Working papers and shorter pieces
 
-[“Crises” as catalysts for more sustainable futures? The case of the First Oil Crisis and the role of multilayered interpretative struggles. Economic Sociology: The European Electronic Newsletter (forthcoming) (with L. Suckert.)](https://econsoc.mpifg.de)
+[“Crises” as catalysts for more sustainable futures? The case of the First Oil Crisis and the role of multilayered interpretative struggles. Economic Sociology: The European Electronic Newsletter (forthcoming) (with L. Suckert.)](https://econsoc.mpifg.de/43430/04_Ergen_Suckert-NL_22-2_March2021.pdf)
 
 [2020. Transcending History’s Heavy Hand. The Future in Economic Action. *MPIfG Discussion Paper* 20/3. Cologne: MPIfG (with J. Beckert)](http://www.mpifg.de/pu/mpifg_dp/2020/dp20-3.pdf).
 
