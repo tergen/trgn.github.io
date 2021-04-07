@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Essay on small firm ideologies on Makronom"
+date:   2021-03-20 08:00:00 -0400
+tags: [antitrust, political economy]
+---
+
+Sebastian Kohl and I published a [short essay on small firm ideologies](https://makronom.de/der-mittelstand-als-retter-des-demokratischen-kapitalismus-38483) on Makronom.
+
+<!--more-->
+
+## Zusammenfassung
+
+Kleine und mittelgroße Unternehmen gelten als agiler, menschlicher und rundherum sauberer als ihre größeren Pendants – und ihre Unterstützung somit als breit akzeptiertes Allheilmittel für die Lösung spätkapitalistischer gesellschaftlicher Probleme. Mit der Realität hat das allerdings nicht viel zu tun.
