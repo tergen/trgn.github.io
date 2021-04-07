@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "New Publication in Socio-economic Review"
+title:  "Publication in Socio-economic Review"
 date:   2020-10-29 21:20:51 -0400
 tags: [competition, moral economy, history of ideas, content analysis]
 ---
 
-[New article](/publications/publication_files/2020_ser.pdf) in [*Socio-economic Review*](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwaa041/5942748) on the moral economy of economic competition with S. Kohl.
+[Article](/publications/publication_files/2020_ser.pdf) in [*Socio-economic Review*](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwaa041/5942748) on the moral economy of economic competition with S. Kohl.
 
 <!--more-->
 

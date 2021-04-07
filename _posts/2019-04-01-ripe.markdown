@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "New Publication in Review of International Political Economy"
+title:  "Publication in Review of International Political Economy"
 date:   2019-04-01 21:20:51 -0400
 tags: [competition, institutional change, professions, ideas, governance, liberalization]
 ---
 
-[New article](/publications/publication_files/2019_ripe_varieties.pdf) in [*Review of International Political Economy*](https://www.tandfonline.com/loi/rrip20) on institutional change in American and German antitrust since the 1960s with S. Kohl.
+[Article](/publications/publication_files/2019_ripe_varieties.pdf) in [*Review of International Political Economy*](https://www.tandfonline.com/loi/rrip20) on institutional change in American and German antitrust since the 1960s with S. Kohl.
 
 <!--more-->
 

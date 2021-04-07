@@ -5,4 +5,4 @@ date:   2021-03-25 08:00:00 -0400
 tags: [solar, future, oil]
 ---
 
-[Lisa Suckert](https://www.mpifg.de/forschung/wissdetails_de.asp?MitarbID=757) and I published a [short essay](https://econsoc.mpifg.de/43430/04_Ergen_Suckert-NL_22-2_March2021.pdf) on the making of the First Oil Crisis in the Economic Sociology Newsletter.
+[Lisa Suckert](https://www.mpifg.de/forschung/wissdetails_de.asp?MitarbID=757) and I published a [short essay on the making of the First Oil Crisis](https://econsoc.mpifg.de/43430/04_Ergen_Suckert-NL_22-2_March2021.pdf) in the Economic Sociology Newsletter.
