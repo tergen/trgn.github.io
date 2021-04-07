@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Chapter in Handbook of Economic Sociology in the 21st Century"
+title:  "Chapter in Handbook of Economic Sociology for the 21st Century"
 date:   2021-04-07 08:00:00 -0400
 tags: [action theory, ideas, expectations, social theory]
 ---
 
-Together with [Jens Beckert](https://www.mpifg.de/people/jb1/index_en.asp) we contributed a chapter to a new [Handbook on Economic Sociology in the 21st Century](https://www.springer.com/gp/book/9783030616182), edited by [Andrea Maurer](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-iv/faecher/soziologie/professuren/wirtschaftssoziologie/team/prof-dr-andrea-maurer). The hardcover version has just arrived, the ebook should be available soon. A [preprint](https://pure.mpg.de/rest/items/item_3214547_2/component/file_3214663/content) of our chapter has been published as an MPIfG discussion paper.
+Together with [Jens Beckert](https://www.mpifg.de/people/jb1/index_en.asp) we contributed a chapter to a new [Handbook of Economic Sociology for the 21st Century](https://www.springer.com/gp/book/9783030616182), edited by [Andrea Maurer](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-iv/faecher/soziologie/professuren/wirtschaftssoziologie/team/prof-dr-andrea-maurer). The hardcover version has just arrived, so the ebook should be available soon. A [preprint](https://pure.mpg.de/rest/items/item_3214547_2/component/file_3214663/content) of our chapter has been published as an MPIfG discussion paper.
 
 <!--more-->
 
