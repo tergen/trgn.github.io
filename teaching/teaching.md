@@ -4,7 +4,7 @@ title: "Teaching"
 nav_order: 3
 ---
 
-I'm teaching courses on economic sociology, globalization, innovation, research ethics, and sociological theory.
+I teach courses on economic sociology, energy transitions, globalization, innovation, research ethics, and political economy.
 
 <br/>
 
