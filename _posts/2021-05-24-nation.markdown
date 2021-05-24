@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chapter in volume on economic nationalism"
-date:   2021-04-07 08:00:00 -0400
+date:   2021-05-24 08:00:00 -0400
 tags: [solar, trade policy, industrial policy, moral economy]
 ---
 
