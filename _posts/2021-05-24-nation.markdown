@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Chapter in volume on Economic Nationalism"
+title:  "Chapter in volume on economic nationalism"
 date:   2021-04-07 08:00:00 -0400
-tags: [action theory, ideas, expectations, social theory]
+tags: [solar, trade policy, industrial policy, moral economy]
 ---
 
 I've contributed a chapter to [Klaus Kraemer's](https://homepage.uni-graz.at/de/klaus.kraemer/) and [Sascha Münnich's](https://www.kuwi.europa-uni.de/de/lehrstuhl/vs/sozwi/team/muennich/muennich/index.html) [edited volume on the sociology of economic nationalism](https://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/oekonomischer_nationalismus-15602.html). My chapter investigates the EU's trade policy response to overcapacity in the solar industry as a moral economic conflict.
