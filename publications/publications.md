@@ -25,7 +25,7 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and [*Gesellschaft für Energiewissensc
 
 ## Book chapters
 
-[2021. Die moralische Ökonomie des Schutzzolls: Der Fall der Solarindustrie. In: Klaus Kraemer and Sascha Münnich (eds.), Ökonomischer Nationalismus: Soziologische Analysen wirtschaftlicher Ordnungen. Frankfurt/Main: Campus. (forthcoming.)](https://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/oekonomischer_nationalismus-15602.html)
+[2021. Die moralische Ökonomie des Schutzzolls: Der Fall der Solarindustrie. In: Klaus Kraemer and Sascha Münnich (eds.), Ökonomischer Nationalismus: Soziologische Analysen wirtschaftlicher Ordnungen. Frankfurt/Main: Campus, pp. 147–168.](https://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/oekonomischer_nationalismus-15602.html)
 
 [2021. Transcending History’s Heavy Hand: The Future in Economic Action. In: Andrea Maurer (ed.), Handbook of Economic Sociology for the 21st Century.  London, Springer Nature, pp. 79–94 (with J. Beckert).](https://link.springer.com/content/pdf/10.1007%2F978-3-030-61619-9_6.pdf)
 
