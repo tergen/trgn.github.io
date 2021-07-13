@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Publication in Symposium on Piketty's *Capitalism and Ideology*"
+title:  "Publication in Symposium on Piketty's Capitalism and Ideology"
 date:   2021-06-25 18:00:00 -0400
 tags: [competition, moral economy, history of ideas, content analysis, mittelstand]
 ---
