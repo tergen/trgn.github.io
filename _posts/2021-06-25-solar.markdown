@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Publication in Energy Research and Social Science"
+date:   2021-06-25 18:00:00 -0400
+tags: [competition, moral economy, history of ideas, content analysis, mittelstand]
+---
+
+[Article](https://www.journals.elsevier.com/energy-research-and-social-science/recent-articles) in *Energy Research and Social Science* on the history of solar energy policies in Germany, Japan and the United States with M. Umemura.
+
+<!--more-->
+
+## Abstract
+
+Corporate concentration is currently being discussed as a core reason for the crisis of democratic capitalism. It is seen as a prime mover for wage stagnation and alienation, economic inequalities and discontent with democracy. A tacit coalition of progressive anti-monopoly critiques and small business promoters considers more deconcentrated corporate structures to be a panacea for the crisis of democratic capitalism, arguing that small firms in competition are better for employment, equality and democracy. This paper offers a brief outline of ideas of the anti-monopoly and small business ideal and critically evaluates whether a more deconcentrated economy may live up to these promises. While we agree that the plea for strengthened antitrust enforcement contains relevant and promising prospects for reform, our analysis concludes on a decidedly critical note. In particular, we caution against romanticized notions of the small capitalist firm.
