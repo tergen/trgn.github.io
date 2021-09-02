@@ -21,6 +21,9 @@ gem "kramdown", "~> 2.3.1"
 # Because of bug report
 gem "nokogiri", ">= 1.11.2"
 
+# Because of bug report
+gem "addressable", ">= 2.8.0"
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
