@@ -8,6 +8,10 @@ I teach courses on economic sociology, energy transitions, globalization, innova
 
 <br/>
 
+Spring 2022. Economy & society II. Seminar for master and doctoral students. MPIfG Cologne.
+
+Fall 2021. Good academic practice and its problems. Seminar for early-career researchers. MPIfG Cologne.
+
 Fall 2021. Green energy transitions. Seminar for undergraduate students. University of Wuppertal.
 
 Fall 2020. Good academic practice and its problems. Seminar for early-career researchers. MPIfG Cologne.
