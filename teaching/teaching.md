@@ -4,9 +4,10 @@ title: "Teaching"
 nav_order: 3
 ---
 
-I teach courses on economic sociology, energy transitions, globalization, innovation, research ethics, and political economy.
+I teach courses on economic sociology, energy transitions, innovation, research ethics, sociological theory, and political economy.
 
 <br/>
+
 
 Spring 2022. Economy & society II. Seminar for master and doctoral students. MPIfG Cologne.
 
