@@ -10,11 +10,11 @@ nav_order: 2
 
 Dissertation awarded with the *Theodor-Wessels-Preis*. EWI Cologne.
 
-Reviews in *Sonne Wind & Wärme* 06/2016 and [*Gesellschaft für Energiewissenschaft und Energiepolitik*](https://www.gee.de/buchrezensionen/uebersicht/grosse-hoffnungen-und-bruechige-koalitionen-industrie-politik-und-die-schwierige-durchsetzung-der-photovoltaik).
+Reviews in *Sonne Wind & Wärme* 06/2016 and *Gesellschaft für Energiewissenschaft und Energiepolitik*.
 
 ## Articles
 
-[2021. The Silicon Valley Imaginary: U.S. Tax Reform in the 1980s. *Socio-economic Review*, Forthcoming (with I. Rademacher).](http://ser.oxfordjournals.org)
+[2021. The Silicon Valley Imaginary: U.S. Tax Reform in the 1980s. *Socio-economic Review* (with I. Rademacher).](https://doi.org/10.1093/ser/mwab051)
 
 [2021. Shifting Patterns of Expectations Management in Innovation Policy: A Comparative Analysis of Solar Energy Policy in the United States, Japan and Germany. *Energy Research and Social Science*, (with M. Umemura).](https://authors.elsevier.com/c/1dOmD_oMjTBzWk)
 
