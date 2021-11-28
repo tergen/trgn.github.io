@@ -4,22 +4,14 @@ title: "Teaching"
 nav_order: 3
 ---
 
-I teach courses on economic sociology, energy transitions, innovation, research ethics, sociological theory, and political economy.
+I teach courses on economic sociology, energy transitions, innovation, sociological theory, and political economy. I organize an annual workshop for MPIfG researchers on good academic practice and the German and European research ethics regimes. 
 
 <br/>
 
 
-Spring 2022. Economy & society II. Seminar for master and doctoral students. MPIfG Cologne.
-
-Fall 2021. Good academic practice and its problems. Seminar for early-career researchers. MPIfG Cologne.
-
 [Fall 2021. Gesellschaftlicher Wandel und Grüne Energie. Seminar for undergraduate students. University of Wuppertal.](teaching_files/syl_green_2021.pdf)
 
-Fall 2020. Good academic practice and its problems. Seminar for early-career researchers. MPIfG Cologne.
-
 [Fall 2019. Foundations of institutional theory. Seminar for master and doctoral students. University of Cologne.](teaching_files/syl_found_2019.pdf)
-
-Fall 2018. Good academic practice and its problems. Seminar for early-career researchers. MPIfG Cologne.
 
 [Fall 2018. Organisationssoziologie multinationaler Unternehmen. Seminar for undergraduate students. University of Duisburg-Essen. With S. Kohl.](teaching_files/syl_mne_2018.pdf)
 
