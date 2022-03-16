@@ -14,6 +14,8 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and *Gesellschaft für Energiewissensch
 
 ## Articles
 
+[2022. No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. *Competition & Change* (forthcoming) (with F. Bulfone and M. Kalaitzake).](https://journals.sagepub.com/toc/CCH/0/0)
+
 [2022. Firm Foundations: The Statistical Footprint of Multinational Corporations as a Problem for Political Economy. *Competition & Change* (forthcoming) (with B. Braun and S. Kohl).](https://journals.sagepub.com/toc/CCH/0/0)
 
 [2021. The Silicon Valley Imaginary: U.S. Tax Reform in the 1980s. *Socio-economic Review* (with I. Rademacher).](https://doi.org/10.1093/ser/mwab051)
@@ -42,11 +44,13 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and *Gesellschaft für Energiewissensch
 
 ## Working papers and shorter pieces
 
-[Firm Foundations: The Statistical Footprint of Multinational Corporations as a Problem for Political Economy. MPIfG Discussion Paper 21/5 (with B. Braun and S. Kohl).](https://www.mpifg.de/pu/mpifg_dp/2021/dp21-5.pdf)
+[2022. Review of "Veblen: The Making of an Economist Who Unmade Economics" by Charles Camic. *Economic Sociology: Perspectives and Conversations* 23.2, March 2022, 40–41.](https://econsoc.mpifg.de/45935/08_BookReviews_Econsoc_23-2_March2022.pdf)
 
-[Der Mittelstand als Retter des demokratischen Kapitalismus? Makronom, 24 February (with S. Kohl.)](https://makronom.de/der-mittelstand-als-retter-des-demokratischen-kapitalismus-38483)
+[2021. Firm Foundations: The Statistical Footprint of Multinational Corporations as a Problem for Political Economy. MPIfG Discussion Paper 21/5 (with B. Braun and S. Kohl).](https://www.mpifg.de/pu/mpifg_dp/2021/dp21-5.pdf)
 
-[“Crises” as catalysts for more sustainable futures? The case of the First Oil Crisis and the role of multilayered interpretative struggles. Economic Sociology: The European Electronic Newsletter (with L. Suckert.)](https://econsoc.mpifg.de/43430/04_Ergen_Suckert-NL_22-2_March2021.pdf)
+[2021. Der Mittelstand als Retter des demokratischen Kapitalismus? Makronom, 24 February (with S. Kohl.)](https://makronom.de/der-mittelstand-als-retter-des-demokratischen-kapitalismus-38483)
+
+[2021. “Crises” as catalysts for more sustainable futures? The case of the First Oil Crisis and the role of multilayered interpretative struggles. Economic Sociology: The European Electronic Newsletter (with L. Suckert.)](https://econsoc.mpifg.de/43430/04_Ergen_Suckert-NL_22-2_March2021.pdf)
 
 [2020. Transcending History’s Heavy Hand. The Future in Economic Action. *MPIfG Discussion Paper* 20/3. Cologne: MPIfG (with J. Beckert)](http://www.mpifg.de/pu/mpifg_dp/2020/dp20-3.pdf).
 
