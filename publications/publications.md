@@ -20,7 +20,7 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and *Gesellschaft für Energiewissensch
 
 [2021. The Silicon Valley Imaginary: U.S. Tax Reform in the 1980s. *Socio-economic Review* (with I. Rademacher).](https://doi.org/10.1093/ser/mwab051)
 
-[2021. Shifting Patterns of Expectations Management in Innovation Policy: A Comparative Analysis of Solar Energy Policy in the United States, Japan and Germany. *Energy Research and Social Science*, (with M. Umemura).](https://doi.org/10.1016/j.erss.2021.102177)
+[2021. Shifting Patterns of Expectations Management in Innovation Policy: A Comparative Analysis of Solar Energy Policy in the United States, Japan and Germany. *Energy Research and Social Science* 79, 102177 (with M. Umemura).](https://doi.org/10.1016/j.erss.2021.102177)
 
 [2021. Is More *Mittelstand* the Answer? Firm Size and the Crisis of Democratic Capitalism. *Analyse & Kritik* 43, 1, 41–70 (with S. Kohl).](http://www.analyse-und-kritik.net)
 
