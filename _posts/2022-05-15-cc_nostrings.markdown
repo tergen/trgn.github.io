@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Publication in Competition & Change"
-date:   2022-05-25 10:00:00 -0400
+date:   2022-05-24 10:00:00 -0400
 tags: [industrial policy, subsidies, conditionality, business power, historical analysis, political economy]
 ---
 
