@@ -14,9 +14,9 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and *Gesellschaft für Energiewissensch
 
 ## Articles
 
-[2022. No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. *Competition & Change* (forthcoming) (with F. Bulfone and M. Kalaitzake).](https://journals.sagepub.com/toc/CCH/0/0)
+[2022. No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. *Competition & Change* (with F. Bulfone and M. Kalaitzake).](https://doi.org/10.1177/10245294221101145)
 
-[2022. Firm Foundations: The Statistical Footprint of Multinational Corporations as a Problem for Political Economy. *Competition & Change* (forthcoming) (with B. Braun and S. Kohl).](https://journals.sagepub.com/toc/CCH/0/0)
+[2022. Firm Foundations: The Statistical Footprint of Multinational Corporations as a Problem for Political Economy. *Competition & Change* (with B. Braun and S. Kohl).](https://doi.org/10.1177/10245294221093704)
 
 [2021. The Silicon Valley Imaginary: U.S. Tax Reform in the 1980s. *Socio-economic Review* (with I. Rademacher).](https://doi.org/10.1093/ser/mwab051)
 

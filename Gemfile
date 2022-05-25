@@ -19,7 +19,7 @@ gem "minima", "~> 2.5.1"
 gem "kramdown", "~> 2.3.1" 
 
 # Because of bug report
-gem "nokogiri", "> 1.13.4"
+gem "nokogiri", "> 1.13.6"
 
 # Because of bug report
 gem "addressable", ">= 2.8.0"
