@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Publication in Competition & Change"
+title:  "Publication on Industrial Policy in Competition & Change"
 date:   2022-05-24 10:00:00 -0400
 tags: [industrial policy, subsidies, conditionality, business power, historical analysis, political economy]
 ---
 
-A new [paper](https://journals.sagepub.com/doi/pdf/10.1177/10245294221101145) in [Competition & Change](journals.sagepub.com/home/cch) on decline of conditionality in state aid to business.
+A new [paper](https://journals.sagepub.com/doi/pdf/10.1177/10245294221101145) in [Competition & Change](journals.sagepub.com/home/cch) on the decline of conditionality in state aid to business.
 
 <!--more-->
 

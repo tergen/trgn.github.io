@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Publication in Competition & Change"
+title:  "Publication on Globalization and Comparative Analysis in Competition & Change"
 date:   2022-05-24 10:00:00 -0400
 tags: [globalization, multinational corporations, comparative analysis, global value chains, historical analysis, political economy]
 ---
