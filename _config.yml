@@ -17,8 +17,9 @@ title: Timur Ergen
 email: te@mpifg.de
 description: tergen.org
 shortabout: >-
-    I'm a researcher at the Max Planck
-    Institute for the Study of Societies.
+    I'm a researcher at the Center for European 
+    Studies at Harvard University and the Max 
+    Planck Institute for the Study of Societies.
     My research investigates energy
     transitions, economic competition,
     and the history of the postindustrial
@@ -27,11 +28,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tergen.org" 
 twitter_username: tmrergen
 github_username:  tergen
-employer: MPI for the Study of Societies
-street: Paulstraße 3
-city: 50676 Cologne
-country: Germany
-employerweb: www.mpifg.de
+employer: Minda de Gunzburg Center for European Studies (CES), Harvard University
+street: 27 Kirkland Street
+city: Cambridge, MA 02138
+country: United States
+employerweb: https://ces.fas.harvard.edu
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
