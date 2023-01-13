@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Publication on Crisis Perceptions in Historical Social Research"
+date:   2023-01-10 10:00:00 -0400
+tags: [expectations, energy, USA, crisis, renewable energy, cultural sociology]
+---
+
+A new [paper](https://www.jstor.org/stable/27182682) in [Historical Social Research](https://www.gesis.org/en/hsr/current-issues) on sense-making during the First Oil Crisis.
+
+<!--more-->
+
+## Abstract
+
+The oil crisis of 1973/74 is commonly seen as the advent of state-led attempts to restructure rich societies’ energy infrastructures. Indeed, from a historical perspective, crises have repeatedly facilitated infrastructural transformations toward sustainability. But under what conditions can crises challenge existing orders and promote alternative infrastructures? Drawing on a historical vignette that reconstructs the public discourse emerging around the first oil crisis in the United States, this article proposes to reconsider the transformative potential of crises from a perspective focusing on the con- tested constitution of the future. We argue that the potential of crises to fos- ter broader processes of infrastructural change is dependent on the capacity of actors to discursively challenge hopes and expectations inscribed in established infrastructures. As the example of the first oil crisis illustrates, crises are instances in which political actors engage in interpretative struggles to settle on whether disruptions present “real” crises that require infrastructural transformation – or are mere accidents, errors, or irregularities that existent infrastructure can either withstand or requires only minor adaption as a result. In these discursive struggles, images of the future are contested on three layers: tangible experiences are linked to or detached from broader future consequences; potential causes are projected into the future or relegated to the past; and feasible future remedies are conceived or discarded. It is on these three layers of crisis discourse that the future is “opened up,” and alter- native infrastructures become conceivable.
