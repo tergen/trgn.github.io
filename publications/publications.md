@@ -14,7 +14,7 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and *Gesellschaft für Energiewissensch
 
 ## Articles
 
-[2022. Contested Futures: Reimagining Energy Infrastructures in the First Oil Crisis. *Historical Social Research* 47, 4, 242–266.](https://www.jstor.org/stable/27182682)
+[2022. Contested Futures: Reimagining Energy Infrastructures in the First Oil Crisis. *Historical Social Research* 47, 4, 242–266 (with L. Suckert).](https://www.jstor.org/stable/27182682)
 
 [2022. No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. *Competition & Change* (with F. Bulfone and M. Kalaitzake).](https://doi.org/10.1177/10245294221101145)
 
@@ -46,7 +46,7 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and *Gesellschaft für Energiewissensch
 
 ## Working papers and shorter pieces
 
-[No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. MPIfG Discussion Paper 22/2 (with F. Bulfone and M. Kalaitzake.)](https://hdl.handle.net/21.11116/0000-0007-3FFC-8)
+[2022. No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. MPIfG Discussion Paper 22/2 (with F. Bulfone and M. Kalaitzake.)](https://hdl.handle.net/21.11116/0000-0007-3FFC-8)
 
 [2022. Review of "Veblen: The Making of an Economist Who Unmade Economics" by Charles Camic. *Economic Sociology: Perspectives and Conversations* 23.2, March 2022, 40–41.](https://econsoc.mpifg.de/45935/08_BookReviews_Econsoc_23-2_March2022.pdf)
 
