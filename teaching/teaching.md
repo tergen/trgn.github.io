@@ -4,7 +4,7 @@ title: "Teaching"
 nav_order: 3
 ---
 
-I teach courses on economic sociology, energy transitions, innovation, sociological theory, and political economy. I organize an annual workshop for MPIfG researchers on good academic practice and the German and European research ethics regimes. 
+I teach courses on economic sociology, energy transitions, innovation, sociological theory, and political economy. I also used to organize an annual workshop for MPIfG researchers on good academic practice and the German and European research ethics regimes.
 
 <br/>
 
