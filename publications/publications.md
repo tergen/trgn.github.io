@@ -6,19 +6,19 @@ nav_order: 2
 
 ## Books
 
+2024 (planned). Organizing Decline: Deindustrialization in Germany and the United States (first draft scheduled for Fall 2023).
+
 [2015. *Große Hoffnungen und brüchige Koalitionen. Politik, Industrie und die schwierige Durchsetzung der Photovoltaik.* Frankfurt am Main/New York, Campus.](https://pure.mpg.de/rest/items/item_2224416_9/component/file_2621995/content)
-
-Dissertation awarded with the *Theodor-Wessels-Preis*. EWI Cologne.
-
-Reviews in *Sonne Wind & Wärme* 06/2016 and *Gesellschaft für Energiewissenschaft und Energiepolitik*.
 
 ## Articles
 
+[2023. No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. *Competition & Change* 27, 2, 253–276 (with F. Bulfone and M. Kalaitzake).](https://doi.org/10.1177/10245294221101145)
+
+[2023. Firm Foundations: The Statistical Footprint of Multinational Corporations as a Problem for Political Economy. *Competition & Change* 27, 1, 44–73 (with B. Braun and S. Kohl).](https://doi.org/10.1177/10245294221093704)
+
+[2022. Rival Views of Economic Competition. *Socio-economic Review* 20, 3, 937–965 (with S. Kohl).](publication_files/2020_ser.pdf)
+
 [2022. Contested Futures: Reimagining Energy Infrastructures in the First Oil Crisis. *Historical Social Research* 47, 4, 242–266 (with L. Suckert).](https://www.jstor.org/stable/27182682)
-
-[2022. No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. *Competition & Change* (with F. Bulfone and M. Kalaitzake).](https://doi.org/10.1177/10245294221101145)
-
-[2022. Firm Foundations: The Statistical Footprint of Multinational Corporations as a Problem for Political Economy. *Competition & Change* (with B. Braun and S. Kohl).](https://doi.org/10.1177/10245294221093704)
 
 [2021. The Silicon Valley Imaginary: U.S. Tax Reform in the 1980s. *Socio-economic Review* (with I. Rademacher).](https://doi.org/10.1093/ser/mwab051)
 
@@ -26,13 +26,15 @@ Reviews in *Sonne Wind & Wärme* 06/2016 and *Gesellschaft für Energiewissensch
 
 [2021. Is More *Mittelstand* the Answer? Firm Size and the Crisis of Democratic Capitalism. *Analyse & Kritik* 43, 1, 41–70 (with S. Kohl).](http://www.analyse-und-kritik.net)
 
-[2020. Rival Views of Economic Competition. *Socio-economic Review* Advance access (with S. Kohl).](publication_files/2020_ser.pdf)
-
 [2019. Wirtschaftliche Untergangsszenarien und neoliberale Reformen. *Leviathan* 47, 2, pp. 144–168.](https://www.nomos-elibrary.de/10.5771/0340-0425-2019-2-144/wirtschaftliche-untergangsszenarien-und-neoliberale-reformen-jahrgang-47-2019-heft-2?page=1)
 
 [2019. Varieties of Economization in Competition Policy: Institutional Change in German and American Antitrust, 1960–2000. *Review of International Political Economy* 26, 2, pp. 256–286 (with S. Kohl).](publication_files/2019_ripe_varieties.pdf)
 
 ## Book chapters
+
+[in print. The Future in the Economy. In: Milan Zafirovsky (ed.), The Routledge International Handbook of Economic Sociology. New York: Routledge (with M. Seeliger)](https://www.routledge.com/The-Routledge-International-Handbook-of-Economic-Sociology/Zafirovski/p/book/9780367419936).
+
+[in print. Imagined Futures and Social Innovation. In: Jürgen Howaldt and Christoph Kaletka (eds.), Encyclopedia of Social Innovation. Cheltenham: Edward Elgar.](https://www.e-elgar.com/shop/usd/encyclopedia-of-social-innovation-9781800373341.html)
 
 [2021. Die moralische Ökonomie des Schutzzolls: Der Fall der Solarindustrie. In: Klaus Kraemer and Sascha Münnich (eds.), Ökonomischer Nationalismus: Soziologische Analysen wirtschaftlicher Ordnungen. Frankfurt/Main: Campus, pp. 147–167.](https://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/oekonomischer_nationalismus-15602.html)
 

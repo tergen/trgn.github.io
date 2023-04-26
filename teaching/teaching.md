@@ -4,10 +4,11 @@ title: "Teaching"
 nav_order: 3
 ---
 
-I teach courses on economic sociology, energy transitions, innovation, sociological theory, and political economy. I also used to organize an annual workshop for MPIfG researchers on good academic practice and the German and European research ethics regimes.
+I teach courses on economic sociology, energy transitions, innovation, sociological theory, and political economy. I also organized an annual workshop for MPIfG researchers on good academic practice and the German and European research ethics regimes.
 
 <br/>
 
+Fall 2023. Sociology of Markets. Seminar for master and doctoral students. MPIfG Cologne. With O. Pilmis.
 
 [Fall 2021. Gesellschaftlicher Wandel und Grüne Energie. Seminar for undergraduate students. University of Wuppertal.](teaching_files/syl_green_2021.pdf)
 
