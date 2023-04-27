@@ -6,7 +6,7 @@ nav_order: 2
 
 ## Books
 
-2024 (planned). Organizing Decline: Deindustrialization in Germany and the United States (first draft scheduled for Fall 2023).
+[2024 (planned). Organizing Decline: Deindustrialization in Germany and the United States (first draft scheduled for Fall 2023).](https://ces.fas.harvard.edu/people/timur-ergen)
 
 [2015. *Große Hoffnungen und brüchige Koalitionen. Politik, Industrie und die schwierige Durchsetzung der Photovoltaik.* Frankfurt am Main/New York, Campus.](https://pure.mpg.de/rest/items/item_2224416_9/component/file_2621995/content)
 

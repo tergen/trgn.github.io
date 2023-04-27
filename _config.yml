@@ -57,8 +57,6 @@ menu:
         URL: "/publications"
       - Name: "Teaching"
         URL: "/teaching"
-      - Name: "Events"
-        URL: "/events"
 
 
 # Exclude from processing.
