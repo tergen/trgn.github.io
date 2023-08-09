@@ -8,7 +8,7 @@ nav_order: 1
 
 Here is my [Curriculum Vitae](/about/about_files/vita.pdf)
 
-I'm a John F. Kennedy Memorial Fellow at the [Center for European Studies at Harvard University](https://ces.fas.harvard.edu) and a senior researcher at the [Max Planck Institute for the Study of Societies](https://www.mpifg.de). For the 2022–2023 academic year, I'm an affiliate of the [Weatherhead Research Cluster on Comparative Inequality and Inclusion at Harvard University](https://inequality.wcfia.harvard.edu/people/timur-ergen). 
+I am a senior researcher at the [Max Planck Institute for the Study of Societies](https://www.mpifg.de). During the 2022–2023 academic year, I was a fellow at the [Center for European Studies at Harvard University](https://ces.fas.harvard.edu) and an affiliate of the [Weatherhead Research Cluster on Comparative Inequality and Inclusion at Harvard University](https://inequality.wcfia.harvard.edu/people/timur-ergen). 
 
 <div style="text-align: center;">
 <img src="/about/about_files/tergen.webp" class="img-circle" id="responsive-image" style="width:350px;height:350px;" object-fit= cover object-position= center> 

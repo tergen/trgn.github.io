@@ -14,13 +14,13 @@ nav_order: 2
 
 [2023. No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. *Competition & Change* 27, 2, 253–276 (with F. Bulfone and M. Kalaitzake).](https://doi.org/10.1177/10245294221101145)
 
+[2023. The Silicon Valley Imaginary: U.S. Tax Reform in the 1980s. *Socio-economic Review* 21, 2, 935–957 (with I. Rademacher).](https://doi.org/10.1093/ser/mwab051)
+
 [2023. Firm Foundations: The Statistical Footprint of Multinational Corporations as a Problem for Political Economy. *Competition & Change* 27, 1, 44–73 (with B. Braun and S. Kohl).](https://doi.org/10.1177/10245294221093704)
 
 [2022. Rival Views of Economic Competition. *Socio-economic Review* 20, 3, 937–965 (with S. Kohl).](publication_files/2020_ser.pdf)
 
 [2022. Contested Futures: Reimagining Energy Infrastructures in the First Oil Crisis. *Historical Social Research* 47, 4, 242–266 (with L. Suckert).](https://www.jstor.org/stable/27182682)
-
-[2021. The Silicon Valley Imaginary: U.S. Tax Reform in the 1980s. *Socio-economic Review* (with I. Rademacher).](https://doi.org/10.1093/ser/mwab051)
 
 [2021. Shifting Patterns of Expectations Management in Innovation Policy: A Comparative Analysis of Solar Energy Policy in the United States, Japan and Germany. *Energy Research and Social Science* 79, 102177 (with M. Umemura).](https://doi.org/10.1016/j.erss.2021.102177)
 
