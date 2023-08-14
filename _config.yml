@@ -21,17 +21,17 @@ shortabout: >-
     Planck Institute for the Study of Societies.
     My research investigates energy
     transitions, economic competition,
-    and the comparative history of the postindustrial
-    economy.
+    and the comparative historical sociology 
+    of deindustrialization.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tergen.org" 
 twitter_username: tmrergen
 github_username:  tergen
-employer: Center for European Studies (CES) Harvard University
-street: 27 Kirkland Street
-city: Cambridge, MA 02138
-country: United States
-employerweb: https://ces.fas.harvard.edu
+employer: Max Planck Institute for the Study of Societies (MPIfG)
+street: Paulstr. 3
+city: 50676 Cologne
+country: Germany
+employerweb: www.mpifg.de
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
