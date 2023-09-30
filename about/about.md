@@ -8,7 +8,7 @@ nav_order: 1
 
 Here is my [Curriculum Vitae](/about/about_files/vita.pdf)
 
-I am a senior researcher at the [Max Planck Institute for the Study of Societies](https://www.mpifg.de). I'm a co-organizer of the [SASE](https://sase.org) Research Network *Digital Economy* and a member of [SASE's Executive Council](https://sase.org/about/leadership/).
+I am a senior researcher at the [Max Planck Institute for the Study of Societies](https://www.mpifg.de). I co-organize the [SASE](https://sase.org) Research Network *Digital Economy* and have been a member of [SASE's Executive Council](https://sase.org/about/leadership/) since 2020.
 
 <div style="text-align: center;">
 <img src="/about/about_files/tergen.webp" class="img-circle" id="responsive-image" style="width:350px;height:350px;" object-fit= cover object-position= center> 
