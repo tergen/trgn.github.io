@@ -8,7 +8,7 @@ I teach courses on economic sociology, energy transitions, innovation, sociologi
 
 <br/>
 
-[January 2024. Sociology of Markets. Seminar for master and doctoral students. Sciences Po. With O. Pilmis.](teaching_files/cfa_sociology_of_markets_2024.pdf)
+[Winter 2023/2024. Sociology of Markets. Seminar doctoral students. Sciences Po. With O. Pilmis.](teaching_files/cfa_sociology_of_markets_2024.pdf)
 
 [Fall 2021. Gesellschaftlicher Wandel und Grüne Energie. Seminar for undergraduate students. University of Wuppertal.](teaching_files/syl_green_2021.pdf)
 
