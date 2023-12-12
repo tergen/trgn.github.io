@@ -6,7 +6,7 @@ nav_order: 2
 
 ## Books
 
-[2024 (planned). Organizing Decline: Deindustrialization in Germany and the United States (first draft scheduled for Fall 2023).](https://ces.fas.harvard.edu/people/timur-ergen)
+[2024/2025 (planned). Organizing Decline: Deindustrialization in Germany and the United States (first draft scheduled for Winter 2023).](https://ces.fas.harvard.edu/people/timur-ergen)
 
 [2015. *Große Hoffnungen und brüchige Koalitionen. Politik, Industrie und die schwierige Durchsetzung der Photovoltaik.* Frankfurt am Main/New York, Campus.](https://pure.mpg.de/rest/items/item_2224416_9/component/file_2621995/content)
 
@@ -32,9 +32,9 @@ nav_order: 2
 
 ## Book chapters
 
-[in print. The Future in the Economy. In: Milan Zafirovsky (ed.), The Routledge International Handbook of Economic Sociology. New York: Routledge (with M. Seeliger)](https://www.routledge.com/The-Routledge-International-Handbook-of-Economic-Sociology/Zafirovski/p/book/9780367419936).
+[2023. The Future in the Economy. In: Milan Zafirovsky (ed.), The Routledge International Handbook of Economic Sociology. New York: Routledge, pp. 583–600 (with M. Seeliger)](https://www.routledge.com/The-Routledge-International-Handbook-of-Economic-Sociology/Zafirovski/p/book/9780367419936).
 
-[in print. Imagined Futures and Social Innovation. In: Jürgen Howaldt and Christoph Kaletka (eds.), Encyclopedia of Social Innovation. Cheltenham: Edward Elgar.](https://www.e-elgar.com/shop/usd/encyclopedia-of-social-innovation-9781800373341.html)
+[2023. Imagined Futures and Social Innovation. In: Jürgen Howaldt and Christoph Kaletka (eds.), Encyclopedia of Social Innovation. Cheltenham: Edward Elgar, pp- 7–10.](https://www.e-elgar.com/shop/usd/encyclopedia-of-social-innovation-9781800373341.html)
 
 [2021. Die moralische Ökonomie des Schutzzolls: Der Fall der Solarindustrie. In: Klaus Kraemer and Sascha Münnich (eds.), Ökonomischer Nationalismus: Soziologische Analysen wirtschaftlicher Ordnungen. Frankfurt/Main: Campus, pp. 147–167.](https://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/oekonomischer_nationalismus-15602.html)
 
