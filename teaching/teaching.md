@@ -8,13 +8,13 @@ I teach courses on economic sociology, energy transitions, innovation, organizat
 
 <br/>
 
-[Spring 2024. Organisationssoziologie: Einführung in Theorien und Konzepte. Undergraduate Lecture.](https://www.org-soz.uni-wuppertal.de/de/news-1/)
+[Spring 2024. Organisationssoziologie: Einführung in Theorien und Konzepte. Undergraduate Lecture. University of Wuppertal.](https://www.org-soz.uni-wuppertal.de/de/news-1/)
 
-[Spring 2024. Erhebungsmethoden der Organisationsforschung. Undergraduate Seminar. Universität Wuppertal.](https://www.org-soz.uni-wuppertal.de/de/news-1/)
+[Spring 2024. Erhebungsmethoden der Organisationsforschung. Undergraduate Seminar. University of Wuppertal.](https://www.org-soz.uni-wuppertal.de/de/news-1/)
 
-[Spring 2024. Wissenschaftliches Arbeiten und soziologische Forschungspraxis. Seminar for master students.](https://www.org-soz.uni-wuppertal.de/de/news-1/)
+[Spring 2024. Wissenschaftliches Arbeiten und soziologische Forschungspraxis. Seminar for master students. University of Wuppertal.](https://www.org-soz.uni-wuppertal.de/de/news-1/)
 
-[Spring 2024. Aktuelle Forschungsthemen: Interdisziplinäres Forschungskolloquium. Seminar for master students.](https://www.org-soz.uni-wuppertal.de/de/news-1/)
+[Spring 2024. Aktuelle Forschungsthemen: Interdisziplinäres Forschungskolloquium. Seminar for master students. University of Wuppertal.](https://www.org-soz.uni-wuppertal.de/de/news-1/)
 
 [Winter 2023/2024. Sociology of Markets. Seminar for doctoral students. Sciences Po. With O. Pilmis.](teaching_files/syl_socmark_2023.pdf)
 
