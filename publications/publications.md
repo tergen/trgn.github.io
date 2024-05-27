@@ -6,7 +6,7 @@ nav_order: 2
 
 ## Books
 
-[2024/2025 (planned). Organizing Decline: Deindustrialization in Germany and the United States (first draft scheduled for Winter 2024).](https://ces.fas.harvard.edu/people/timur-ergen)
+[2024/2025 (in preparation). Organizing Decline: Deindustrialization in Germany and the United States (first draft scheduled for Winter 2024).](https://ces.fas.harvard.edu/people/timur-ergen)
 
 [2015. *Große Hoffnungen und brüchige Koalitionen. Politik, Industrie und die schwierige Durchsetzung der Photovoltaik.* Frankfurt am Main/New York, Campus.](https://pure.mpg.de/rest/items/item_2224416_9/component/file_2621995/content)
 
@@ -47,6 +47,10 @@ nav_order: 2
 [2018. The Dilemma between Aligned Expectations and Diversity in Innovation: Evidence from Early Energy Technology Policies. In: Jens Beckert and Richard Bronk (eds.), Uncertain Futures: Imaginaries, Narratives, and Calculation in the Economy. Oxford, Oxford University Press, pp. 298–318.](publication_files/2018_uncertain.pdf)
 
 ## Working papers and shorter pieces
+
+[2024. Whose Social Order? (Forum on Cloud Empires: How Digital Platforms Are Overtaking the State and How We Can Regain Control.) Socio-economic Review.](https://doi.org/10.1093/ser/mwae023) 
+
+[2023. The Sunshine Problem: Climate Change and Managed Decline in the European Union. MPIfG Discussion Paper 6/23 (with L. Schmitz.)](https://www.econstor.eu/bitstream/10419/281202/1/1878699911.pdf)
 
 [2022. No Strings Attached: Corporate Welfare, State Intervention, and the Issue of Conditionality. MPIfG Discussion Paper 22/2 (with F. Bulfone and M. Kalaitzake.)](https://hdl.handle.net/21.11116/0000-0007-3FFC-8)
 
