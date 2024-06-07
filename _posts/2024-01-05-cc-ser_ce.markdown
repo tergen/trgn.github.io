@@ -5,4 +5,4 @@ date:   2024-01-05 10:00:00 -0400
 tags: [digital economy, institutions, sociology of markets, platforms, regulation]
 ---
 
-The [Socio-Economic Review](https://academic.oup.com/ser) has published our [review symposium](https://doi.org/10.1093/ser/mwae023s) on [Vili Lehdonvirta's](https://www.oii.ox.ac.uk/people/profiles/vili-lehdonvirta/) [Cloud Empires: How digital platforms are overtaking the state and how we can regain control](https://cloudempires.org). 
+The [Socio-Economic Review](https://academic.oup.com/ser) has published our [review symposium](https://doi.org/10.1093/ser/mwae023) on [Vili Lehdonvirta's](https://www.oii.ox.ac.uk/people/profiles/vili-lehdonvirta/) [Cloud Empires: How digital platforms are overtaking the state and how we can regain control](https://cloudempires.org). 
