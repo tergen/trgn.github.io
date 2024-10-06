@@ -6,7 +6,7 @@ nav_order: 2
 
 ## Books
 
-[2024/2025 (in preparation). Organizing Decline: Deindustrialization in Germany and the United States (first draft scheduled for Winter 2024).](https://ces.fas.harvard.edu/people/timur-ergen)
+[2024/2025 (in preparation). Organizing Decline: Deindustrialization in Germany and the United States (first draft scheduled for Winter 2024/2025).](https://ces.fas.harvard.edu/people/timur-ergen)
 
 [2015. *Große Hoffnungen und brüchige Koalitionen. Politik, Industrie und die schwierige Durchsetzung der Photovoltaik.* Frankfurt am Main/New York, Campus.](https://pure.mpg.de/rest/items/item_2224416_9/component/file_2621995/content)
 
@@ -32,6 +32,8 @@ nav_order: 2
 
 ## Book chapters
 
+[2023. Imagined Futures and Social Innovation. In: J. Howaldt and C. Kaletka (ed.), Encyclopedia of Social Innovation. Edward Elgar, 7–10.](https://www.elgaronline.com/display/book/9781800373358/ch02.xml).
+
 [2023. The Future in the Economy. In: Milan Zafirovsky (ed.), The Routledge International Handbook of Economic Sociology. New York: Routledge, pp. 583–600 (with M. Seeliger)](https://www.routledge.com/The-Routledge-International-Handbook-of-Economic-Sociology/Zafirovski/p/book/9780367419936).
 
 [2023. Imagined Futures and Social Innovation. In: Jürgen Howaldt and Christoph Kaletka (eds.), Encyclopedia of Social Innovation. Cheltenham: Edward Elgar, pp- 7–10.](https://www.e-elgar.com/shop/usd/encyclopedia-of-social-innovation-9781800373341.html)
@@ -47,6 +49,8 @@ nav_order: 2
 [2018. The Dilemma between Aligned Expectations and Diversity in Innovation: Evidence from Early Energy Technology Policies. In: Jens Beckert and Richard Bronk (eds.), Uncertain Futures: Imaginaries, Narratives, and Calculation in the Economy. Oxford, Oxford University Press, pp. 298–318.](publication_files/2018_uncertain.pdf)
 
 ## Working papers and shorter pieces
+
+[2024. The Political Economy of Conditionality and the New Industrial Policy. MPIfG Discussion Paper 24/6 (with F. Bulfone & E. Maggor.)](https://pure.mpg.de/rest/items/item_3612897_2/component/file_3612917/content) 
 
 [2024. Whose Social Order? (Forum on Cloud Empires: How Digital Platforms Are Overtaking the State and How We Can Regain Control.) Socio-economic Review.](https://doi.org/10.1093/ser/mwae023) 
 

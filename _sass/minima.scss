@@ -34,7 +34,39 @@
     src: url('/assets/fonts/SourceSerif4Subhead-SemiboldIt.otf.woff2') format('woff2');
 }
 
-$base-font-family: 'Source Serif 4', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+@font-face{
+  font-family: 'Literata';
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  src: url('/assets/fonts/LiterataTT-SubheadRegular.woff2') format('woff2');
+}
+
+@font-face{
+  font-family: 'Literata';
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+  src: url('/assets/fonts/LiterataTT-SubheadItalic.woff2') format('woff2');
+}
+
+@font-face{
+  font-family: 'Literata';
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  src: url('/assets/fonts/LiterataTT-SubheadSemibold.woff2') format('woff2');
+}
+
+@font-face{
+  font-family: 'Literata';
+  font-weight: 600;
+  font-style: italic;
+  font-stretch: normal;
+  src: url('/assets/fonts/LiterataTT-SubheadSemiboldItalic.woff2') format('woff2');
+}
+
+$base-font-family: 'Source Serif 4', 'Literata', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
