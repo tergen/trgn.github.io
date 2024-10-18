@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for Papers: SASE Montréal Mini Conference on Climate Change Adaptation and Mitigation"
+title:  "Call for Papers: SASE Montreal Mini Conference on Climate Change Adaptation and Mitigation"
 date:   2024-10-10 10:00:00 -0400
 tags: [climate change, deindustrialization, decline, industrial policy, regulation]
 ---
