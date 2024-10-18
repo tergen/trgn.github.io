@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SASE Mini Conference on Asset Stranding"
+title:  "Call for Paper: SASE Montréal Mini Conference on Asset Stranding"
 date:   2024-15-10 10:00:00 -0400
 tags: [climate change, deindustrialization, decline, industrial policy, regulation]
 ---
