@@ -8,13 +8,13 @@ I teach courses on economic sociology, energy transitions, innovation, organizat
 
 <br/>
 
-[Winter 2024/2025. Soziologische Theorie. Lecture for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
+[Winter 2024/2025. Sociologische Theorie. Lecture for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
 
 [Winter 2024/2025. The Ordinal Society. Seminar for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
 
-[Winter 2024/2025. Verkaufte Zukunft. Seminar for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
+[Winter 2024/2025. Soziologie des Klimawandels. Seminar for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
 
-[Winter 2024/2025. Modellfälle in den Sozialwissenschaften. Seminar for master students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
+[Winter 2024/2025. Model Cases in the Social Sciences. Seminar for master students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
 
 [Winter 2024/2025. Kolloquium sozialwissenschaftliche Theorie. Seminar for undergraduate and master students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
 
