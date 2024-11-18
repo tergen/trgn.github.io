@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for Papers: Socio-economic Review Special Issue on »The socio-economics of loss and decline in the climate crisis«"
+title:  "Call for Papers: Socio-economic Review Special Issue on »The Socio-economics of Loss and Decline in the Climate Crisis«"
 date:   2024-11-17 10:00:00 -0400
 tags: [climate change, deindustrialization, decline, industrial policy, regulation]
 ---

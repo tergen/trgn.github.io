@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New paper on industrial policy conditionalities"
+title:  "New Paper on Industrial Policy Conditionalities"
 date:   2024-10-01 10:00:00 -0400
 tags: [conditionality, industrial policy, regulation, Europe, USA, business power]
 ---
