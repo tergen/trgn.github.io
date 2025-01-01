@@ -8,7 +8,7 @@ I teach courses on economic sociology, energy transitions, innovation, organizat
 
 <br/>
 
-[Winter 2024/2025. Sociologische Theorie. Lecture for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
+[Winter 2024/2025. Soziologische Theorie. Lecture for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
 
 [Winter 2024/2025. The Ordinal Society. Seminar for undergraduate students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
 
@@ -18,7 +18,7 @@ I teach courses on economic sociology, energy transitions, innovation, organizat
 
 [Winter 2024/2025. Kolloquium sozialwissenschaftliche Theorie. Seminar for undergraduate and master students. Carl von Ossietzky University Oldenburg.](https://uol.de/ast)
 
-[Winter 2024/2025. Welfare states and the economy. Undergraduate seminar. Catholic University of Applied Sciences of North Rhine-Westphalia.](https://katho-nrw.de/standorte/standort-aachen)
+[Winter 2024/2025. Sozialstaat & Wirtschaft. Undergraduate seminar. Catholic University of Applied Sciences of North Rhine-Westphalia.](https://katho-nrw.de/standorte/standort-aachen)
 
 [Spring 2024. Organisationssoziologie: Einführung in Theorien und Konzepte. Undergraduate Lecture. University of Wuppertal (with L. Suckert).](https://www.org-soz.uni-wuppertal.de/de/news-1/)
 
